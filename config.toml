@@ -1,0 +1,72 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Anthony Carrick : Software Developer | Writer | Hobbyist Photographer'
+theme = 'hugo-theme-stack'
+
+[params]
+rssFullContent = true
+
+  [params.footer]
+  since = 2021
+
+  [params.sidebar]
+  emoji = "🍥"
+  subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+    [params.sidebar.avatar]
+    enabled = false
+    local = true
+    src = "img/avatar.png"
+
+  [params.article]
+  math = false
+  toc = true
+  readingTime = true
+
+    [params.article.license]
+    enabled = false
+    default = "Licensed under CC BY-NC-SA 4.0"
+
+  [[params.widgets.homepage]]
+  type = "search"
+
+  [[params.widgets.homepage]]
+  type = "archives"
+
+    [params.widgets.homepage.params]
+    limit = 5
+
+  [[params.widgets.homepage]]
+  type = "categories"
+
+    [params.widgets.homepage.params]
+    limit = 10
+
+  [[params.widgets.homepage]]
+  type = "tag-cloud"
+
+    [params.widgets.homepage.params]
+    limit = 10
+
+  [[params.widgets.page]]
+  type = "toc"
+
+
+[menu]
+main = [ ]
+
+  [[menu.social]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/anthx"
+
+    [menu.social.params]
+    icon = "brand-github"
+
+  [[menu.social]]
+  identifier = "twitter"
+  name = "Twitter"
+  url = "https://twitter.com/anthc"
+
+    [menu.social.params]
+    icon = "brand-twitter"
