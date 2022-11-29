@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://anthony-carrick.com/'
 languageCode = 'en-us'
 title = 'Anthony Carrick : Software Developer | Writer | Hobbyist Photographer'
 theme = 'hugo-theme-stack'
@@ -26,15 +26,6 @@ rssFullContent = true
     [params.article.license]
     enabled = false
     default = "Licensed under CC BY-NC-SA 4.0"
-
-  [[params.widgets.homepage]]
-  type = "search"
-
-  [[params.widgets.homepage]]
-  type = "archives"
-
-    [params.widgets.homepage.params]
-    limit = 5
 
   [[params.widgets.homepage]]
   type = "categories"
