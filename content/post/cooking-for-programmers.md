@@ -29,11 +29,11 @@ I’ve found a few videos from nerdy chefs on YouTube to be a bit of an inspirat
 
 Adam Regusea is a journalism lecturer turned cooking and food science YouTuber.  These two videos I've found quite helpful, on knife skills. Just don't go waving it around like he does in the first video.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Oot0NGxQEm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube-enhanced Oot0NGxQEm4 >}}
 
 A year later he made a follow up video:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wSqnJ6iMM8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube-enhanced wSqnJ6iMM8Y >}}
 
 ### Internet Shaquille 
 
@@ -41,12 +41,12 @@ Internet Shaquille is a realistic but firm presenter, encouraging people to eat 
 
 In this one he talks about what he likes to prepare when he's too tired to cook a "normal" meal.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TCM6WXyBOCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube-enhanced TCM6WXyBOCo >}}
 
 Another one I liked is the following where he talks about how to make home-make burritos taste more like restaurant bought. It's good to have nice homemade food.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/osv72OeCpR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube-enhanced osv72OeCpR0 >}}
 
 The last one from Shaq I'll share is about how to made washing up easier. Though to be honest, I also watch put YouTube or Netflix on the tablet while I wash up.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vyis-EmiZXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube-enhanced vyis-EmiZXI >}}
