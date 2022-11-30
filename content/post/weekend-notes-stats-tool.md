@@ -10,7 +10,7 @@ image: ../assets/images/weekend-notes-stats-tool.png
 ---
 I’ve made a tool to analyse my article statistics on Weekend Notes. Though it can be used by other writers since I’ve deployed it as a public site. It’s running on AWS Lambda with the front end on my own site just because it’s easier - though the front end could be deployed to S3 and hosted as a static site since it just posts form data to my Lambda function. Here’s how it works and a bit about the issues I had while building it.
 
-## Analysing the Data
+# Analysing the Data
 
 I’ve built my app to use BeautifulSoup to parse the HTML source code of the stats page, this way there’s no risk of exposing anything secret apart stats about one particular article, and I don’t need to worry about logins in code - just let the user login as normal in their web browser and grab the source code and give it to my tool.
 
@@ -24,7 +24,7 @@ I tried to handle actions in methods rather than in global scope so that I can e
 
 You can sort a dictionary so that when you loop over the keys, the values are sorted. (How do I sort a dictionary by value?) That’s handy. 
 
-## Deploying The Script
+# Deploying The Script
 
 I created the script to be run as a Flask app using Zappa for Python because I already had some experience with a previous data analysis project in Python. Read about my experiences with Zappa this time around: [AWS Lambda using Zappa](/aws-lambda-and-zappa)
 
@@ -41,7 +41,7 @@ This worked well, except for copying files inside a folder and making it repeata
 
 Finally, due to PC issues I changed to use my Windows 10 desktop rather than my Mac laptop so I needed to fire up Windows Subsystem for Linux to use my BASH scripts. Unfortunately it was so old the Python was out of date. I tried to update it using apt-get upgrade but that doesn’t actually upgrade the OS. (How To Upgrade to Ubuntu 16.04 LTS from Ubuntu 14.04 LTS ). Actually I stumbled upon do-release-upgrade because the Microsoft Store advised that’s how to upgrade Linux inside WSL. (Actually that page says so too, further down.) After a couple of upgrades and hours later I had a working WSL again and I could just develop on Windows and switch to WSL when I wanted to package up. Wonderful!
 
-## Building the Front End
+# Building the Front End
 
 When I started building the front end, I pretty much took my previous front end HTML form from an earlier project like this and modified the form to POST instead of GET. But of course I quickly remembered that a normal form can’t simply POST plain data as the request body like you’d do in a React project or REST API. A normal form needs either url encoded form fields or multi-part form data. Or you use JavaScript to submit the form and handle the response. I first tried to implement that in JavaScript with our friends Stack Overflow and MDN to give me enough idea to get going:
 

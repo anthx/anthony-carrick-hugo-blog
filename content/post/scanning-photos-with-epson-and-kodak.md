@@ -12,8 +12,7 @@ I’ve got a bunch of old photos to scan – some, where I have the negatives st
 
 So while scanning the negatives I have (including of the same photos from before) I was able to experiment with the scanned images and compare: scans from negatives, scans from prints on the Epson flatbed, and scans from the Kodak Rapid Scanner.
 
-Goals
------
+# Goals
 
 My overall goals for this project are have digital copies of all my old photos of family and vacations etc (pre-digital photography) so I can add them to my Lightroom catalogue and add key words and dates like the others.
 
@@ -23,7 +22,7 @@ So my goals for the experiments are:
 *   Compare Epson print scanning with Kodak kiosk print scanning
 *   Determine overall course of action based on quality and ease-of-implementation
 
-### Compare scanned negatives to scanned prints
+## Compare scanned negatives to scanned prints
 
 TL;DR: Scan negatives if you have them.
 
@@ -61,7 +60,7 @@ While it’s scanning, I just do something else on my computer or do something i
 
 **Verdict:** Find an hour or so per roll (less as you get more experience), and scan as many negatives as you have.
 
-### Compare Epson print scan with Kodak kiosk print scan
+## Compare Epson print scan with Kodak kiosk print scan
 
 **Quality**: They are about the same quality. I couldn’t get any better image data (light/dark dynamic range) out of the Epson. Images from the Epson scanner seemed slightly sharper, but a slight sharpness increase in Lightroom applied to the ones from the Rapid Scan and I couldn’t notice any difference.
 
@@ -97,8 +96,7 @@ This involves constantly opening the scanner and placing 4 photos on, gathering 
 
 **Verdict:** Rapid Scan for as many as possible, flatbed when the images are too large for the photo scanner.
 
-Overall course of action
-------------------------
+# Overall course of action
 
 Based on the above experiments and experiences I am digitising my photos in the following way:
 

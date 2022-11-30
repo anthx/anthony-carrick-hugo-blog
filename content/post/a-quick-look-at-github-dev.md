@@ -12,19 +12,19 @@ A few months ago Microsoft released [GitHub.dev](https://visualstudiomagazine.co
 
 I finally tried to use it for real on my iPad while on holidays to add Google Analytics to this website. It actually works! 
 
-### Advantages: 
+# Advantages: 
 
 * Command Palette Ctrl + P and Shift+Ctrl + P both work.
 * amazing auto closing bracket feature is available
 * Seems to work without issues in Safari on iPad OS
 
-### Limitations: 
+# Limitations: 
 
 * There’s no terminal so you can’t run commands.
 * Git works, but it’s “pushed” immediately which since it’s linked to GitHub directly, isn’t really a problem.
 * The menu is on collaposed on the side, so it takes getting used to.
 
-### Experience
+# Experience
 
 Without the terminal I had to cheat a bit and edit package.json “by hand” to install the analytics plugin to Gatsby and I couldn’t build the site locally so I couldn’t test it without waiting for the build by Netlify. 
 
@@ -32,7 +32,7 @@ Interestingly the build process said the plugin wasn’t compatible with my vers
 
 And without being able to run npm commands I had to look up the version of the plugin to install, whereas `npm run install` would find the latest automatically.
 
-### In conclusion
+# In conclusion
 
 VS Code team and GitHub probably truly intended it for quick edits or visualising a repository, rather than trying to edit a whole project like I did, but it does work. Besides, if you paid for [Codespaces](https://github.com/features/codespaces), you’d have a whole terminal and virtual machine to run commands on anyway. (Actually it’s not released yet for individuals.)
 
