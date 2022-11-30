@@ -11,7 +11,7 @@ rssFullContent = true
 
   [params.sidebar]
   emoji = "🍥"
-  subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  subtitle = "Blogging about technology, life, and observations."
 
     [params.sidebar.avatar]
     enabled = false
@@ -27,11 +27,11 @@ rssFullContent = true
     enabled = false
     default = "Licensed under CC BY-NC-SA 4.0"
 
-  [[params.widgets.homepage]]
-  type = "categories"
+  # [[params.widgets.homepage]]
+  # type = "categories"
 
-    [params.widgets.homepage.params]
-    limit = 10
+  #   [params.widgets.homepage.params]
+  #   limit = 10
 
   [[params.widgets.homepage]]
   type = "tag-cloud"
@@ -61,3 +61,8 @@ main = [ ]
 
     [menu.social.params]
     icon = "brand-twitter"
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 1

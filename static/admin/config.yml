@@ -1,0 +1,44 @@
+backend:
+  name: github
+  repo: anthx/anthony-carrick-hugo-blog
+
+local_backend: true
+
+publish_mode: editorial_workflow
+
+media_folder: content/assets/images
+public_folder: ../assets/images
+
+collections:
+  - name: posts
+    label: Posts
+    folder: content/post
+    create: true
+    fields:
+      - { name: date, label: Date, widget: date }
+      - { name: lastmod, label: Modified Date, widget: date }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        allow_add: true
+        default: ["news", "cooking"]
+      - { name: title, label: Title }
+      - { name: description, label: Excerpt }
+      - { name: body, label: Body, widget: markdown }
+      - label: Featured Image
+        name: image
+        widget: "image"
+        choose_url: true
+        default: "/assets/images/Text-Blog-Featured-Image.png"
+        media_library:
+          config:
+            multiple: true
+  - name: pages
+    label: Pages
+    folder: content/page
+    create: true
+    fields:
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: description, label: description }
+      - { name: body, label: Body, widget: markdown }
