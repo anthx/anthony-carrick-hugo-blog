@@ -66,3 +66,6 @@ main = [ ]
 endLevel = 4
 ordered = false
 startLevel = 1
+
+# GA Tracking ID
+googleAnalytics = 'G-E58JY8VVMH'
