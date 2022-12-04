@@ -2,7 +2,9 @@
 date: 2022-12-04T01:28:43.026Z
 lastmod: 2022-12-04T01:28:43.037Z
 tags:
-  - hobbies self-improvement life
+  - '["hobbies"'
+  - '"self-improvement"'
+  - '"life"]'
 title: Thoughts on Free Time
 description: What’s an effective use of our limited free time in modern society?
   Let's think about free-time usage!!
