@@ -85,4 +85,4 @@ If you feel like you are not fit enough for hiking, try just walking around the 
 
 # Conclusion
 
-It’s good to be mindful of your activities or at the least… mindfully decide you don’t need to be! Some lifestyles and interests/personalities may have different ideas of what’s important. I’m not going to dictate what you should do, but just like, make sure it’s healthy for you, safe, and maybe it’s satisfying in both the long and short term. Make it a good week and be goo
+It’s good to be mindful of your activities or at the least… mindfully decide you don’t need to be! Some lifestyles and interests/personalities may have different ideas of what’s important. I’m not going to dictate what you should do, but just like, make sure it’s healthy for you, safe, and maybe it’s satisfying in both the long and short term. Make it a good week and be good.
