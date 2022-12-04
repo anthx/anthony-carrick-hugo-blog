@@ -8,7 +8,7 @@ tags:
 title: Thoughts on Free Time
 description: What’s an effective use of our limited free time in modern society?
   Let's think about free-time usage!!
-image: ../assets/images/Text-Blog-Featured-Image.png
+image: null
 ---
 What’s an effective use of our limited free time in modern society? What even is “free time”?
 
@@ -44,9 +44,12 @@ From my personal experience, the downside of this is that you are constantly try
 
 ## Some middle ground
 
-Maybe a compromise is to give yourself some mental break after all the learning or rushing around. Read a novel in bed. Meet your friends for a coffee or movie once in a while. 
+Maybe a compromise is to give yourself some mental break after all the learning or rushing around. 
 
-# Actual Free Time
+1. Read a novel in bed. 
+2. Meet your friends for a coffee or movie once in a while.
+
+# Actual/Dedicated Free Time
 
 I’ve read articles suggesting that having a regular hobby or activity that you can dedicate certain times to during the week helps to get one through the week and even better if you can spend quality time with close friends or doing an activity to get you into a flow state.
 
