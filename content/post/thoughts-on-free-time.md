@@ -71,7 +71,7 @@ Puzzle games are about the same on computers as in real life, except for the tac
 
 ## Creative Pursuits
 
-Creative pursuits like drawing or writing, making music, are one of the more fulfilling ways to spend your own time. You get to practise a skill, and gain something at the end that you actually made. The human mind seems to like that for some reason if you have your basic needs sorted in life. Some creative pursuits can even be transferred to work skills too, like writing or photography. For me, writing this blog is about my main creative pursuit these days. But I also enjoy other forms of writing,blogging and photography and on occasion. Frustratingly it’s hard to set aside time for creative hobbies in modern society.
+Creative pursuits like drawing or writing, making music, are one of the more fulfilling ways to spend your own time. You get to practise a skill, and gain something at the end that you actually made. The human mind seems to like that for some reason if you have your basic needs sorted in life. Some creative pursuits can even be transferred to work skills too, like writing or photography. For me, writing this blog is about my main creative pursuit these days. But I also enjoy other forms of writing, blogging and photography and on occasion. Frustratingly it’s hard to set aside time for creative hobbies in modern society.
 
 ## Sports
 
@@ -82,3 +82,7 @@ Annoyingly, I’m not particularly interested in sports. Though I wish I was bec
 If you don’t do sports, there are plenty of other exercises you can do: hiking, rollerblading/skating, indoor/outdoor rock climbing, swimming, kick-boxing or other martial arts. My preference is just hiking because it’s outdoors in nature, and it’s good for my legs, and I’ve enjoyed indoor climbing in small doses in the past because it’s also a bit of a mental stimulation to choose the path up the wall.
 
 If you feel like you are not fit enough for hiking, try just walking around the lake or natural area, working up to hills and different terrain safely, any activity is better than nothing.
+
+# Conclusion
+
+It’s good to be mindful of your activities or at the least… mindfully decide you don’t need to be! Some lifestyles and interests/personalities may have different ideas of what’s important. I’m not going to dictate what you should do, but just like, make sure it’s healthy for you, safe, and maybe it’s satisfying in both the long and short term. Make it a good week and be goo
