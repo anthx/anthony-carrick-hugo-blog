@@ -6,7 +6,7 @@ tags:
 title: Tips for getting stuff done and surviving life!
 description: I’ve always wanted to write a bullet point list of tips, so here’s
   some! Just random tips based on my experiences.
-image: /assets/images/Text-Blog-Featured-Image.png
+image: ""
 ---
 1. If you can’t concentrate at home, go to the library to study.
 2. Put YouTube/streaming service/podcast on while you wash up the dishes if you don’t want to wash up. 
