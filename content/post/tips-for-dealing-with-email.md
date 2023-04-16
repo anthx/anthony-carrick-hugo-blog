@@ -32,6 +32,38 @@ Then I’ll use ordinary Filters in Outlook to filter emails that can’t be pic
 
 Gmail doesn’t actually have a Sweep feature unfortunately, only Filters, so I can’t automatically have it Archive emails after 10 days.
 
-However, I came up with a work around, Google Workspace Apps Script. It doesn’t actually require a paid Workspace account, it works on the free Gmail too.
+However, I came up with a work around, [Google Workspace Apps](https://script.google.com) Script. It doesn’t actually require a paid Workspace account, it works on the free Gmail too.
 
 ![Screenshot of Google Apps Script marketing page](../assets/images/apps-script-–-google-apps-script.png "Use Google Apps Script to script your own Google Workspace")
+
+With the help of some random website and Tom Scott for pointing out the existence of Apps Script in the first place, I came ended up with the following script that automatically archives (removes the Inbox label) on all emails already with a label after 10 days. I schedule the script to run every day.
+
+```
+function archiveSweep() {
+  var delayDays = 10;
+  var maxDate = new Date();
+  maxDate.setDate(maxDate.getDate() - delayDays);
+
+  var threads = GmailApp.getInboxThreads();
+
+  for (var i = 0; i < threads.length; i++) {
+    if (threads[i].getLastMessageDate() < maxDate) {
+      if (threads[i].getLabels().length > 0) {
+        threads[i].moveToArchive();
+      }
+    }
+  }
+}
+
+```
+
+It’s just plain JavaScript that with Google classes for their own stuff.
+
+I still use Gmail’s normal Filters system for adding labels to emails, so this will just archive them after 10 days.
+
+This approach does have some caveats though. 
+
+1. I have no easy control over which emails are archived without editing the script to have custom code for specific senders. But that’s easy enough to do if I wanted to. 
+2. Google Account Security keeps reminding me something is authorised to have full control over my account. Which is good, but unnecessary since I wrote the script and authorised Google’s own technology.
+
+The web based script editor in Apps Script uses the Monaco editor and even has some sort version control built in, and a debugger.
