@@ -5,8 +5,10 @@ tags:
   - email
 title: Tips for dealing with email
 description: I get email. Lots of it. Here are some of my attempts to keep it under control
-image: /assets/images/Text-Blog-Featured-Image.png
+image: ""
 ---
+I﻿ get so much email now, that I almost don't bother checking, and let it all pile up. But then you risk missing something important, and I feel I'd be happier if I had a clean inbox. So I try to devise ways to keep it under control, at least a bit.
+
 # Outlook
 
 In Outlook.com I make extensive use of Outlook‘s Sweep rules to automatically move emails to folders after 10 days or keep only the most recent email.
@@ -28,7 +30,7 @@ I use the last two rules depending on the types of email:
 
 Then I’ll use ordinary Filters in Outlook to filter emails that can’t be picked up as precisely by Sweep, just because that feature doesn’t have the same control over triggered emails.
 
-# GMail
+# Gmail
 
 Gmail doesn’t actually have a Sweep feature unfortunately, only Filters, so I can’t automatically have it Archive emails after 10 days.
 
@@ -36,7 +38,7 @@ However, I came up with a work around, [Google Workspace Apps](https://script.go
 
 ![Screenshot of Google Apps Script marketing page](../assets/images/apps-script-–-google-apps-script.png "Use Google Apps Script to script your own Google Workspace")
 
-With the help of some random website and Tom Scott for pointing out the existence of Apps Script in the first place, I came ended up with the following script that automatically archives (removes the Inbox label) on all emails already with a label after 10 days. I schedule the script to run every day.
+With the help of some random website (https://v3b.com/2013/03/email-tips-clean-up-your-inbox-with-a-google-apps-script/) and Tom Scott's [video on AI](https://www.youtube.com/watch?v=jPhJbKBuNnA) for pointing out the existence of Apps Script in the first place, I came ended up with the following script that automatically archives (removes the Inbox label) on all emails already with a label after 10 days. I schedule the script to run every day. 
 
 ```
 function archiveSweep() {
@@ -54,10 +56,9 @@ function archiveSweep() {
     }
   }
 }
-
 ```
 
-It’s just plain JavaScript that with Google classes for their own stuff.
+It’s just plain JavaScript that with Google classes for their own stuff. **Obviously if you do this, be very careful you don't delete your mail, I suggest only archiving it and step through it in the debugger, at least while developing.** 
 
 I still use Gmail’s normal Filters system for adding labels to emails, so this will just archive them after 10 days.
 
@@ -67,3 +68,7 @@ This approach does have some caveats though.
 2. Google Account Security keeps reminding me something is authorised to have full control over my account. Which is good, but unnecessary since I wrote the script and authorised Google’s own technology.
 
 The web based script editor in Apps Script uses the Monaco editor and even has some sort version control built in, and a debugger.
+
+# Thoughts
+
+I﻿n truth, I'm not even sure if my email is under control. I need to go back to Gmail and manually set up rules to Label emails so they'll get taken by the script, because new emails just keep coming! But at least now, maybe it won't get worse? 
