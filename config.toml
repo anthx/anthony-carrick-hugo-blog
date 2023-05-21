@@ -2,9 +2,14 @@ baseURL = 'https://anthony-carrick.com/'
 languageCode = 'en-us'
 title = 'Anthony Carrick : Software Developer | Writer | Hobbyist Photographer'
 theme = 'hugo-theme-stack'
+disqusShortname = 'anthony-carrick'
 
 [params]
 rssFullContent = true
+
+  [params.comments]
+  enabled = true
+  provider = "disqus"
 
   [params.footer]
   since = 2021
