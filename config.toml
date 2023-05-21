@@ -7,11 +7,9 @@ disqusShortname = 'anthony-carrick'
 [params]
 rssFullContent = true
 
-  [parmas.comments]
+  [params.comments]
   enabled = true
   provider = "disqus"
-
-  [params.comments.disqus]
 
   [params.footer]
   since = 2021
