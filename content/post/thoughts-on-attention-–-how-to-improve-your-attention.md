@@ -2,7 +2,8 @@
 date: 2023-06-23T11:26:18.852Z
 lastmod: 2023-06-23T11:26:18.883Z
 tags:
-  - productivity; attention;
+  - productivity
+  - attention
 title: Thoughts on Attention – How to improve your attention
 description: I’d like to talk about attention and achieving things for yourself.
   Your day, your life. My day, my life. Our attention has been stolen and
