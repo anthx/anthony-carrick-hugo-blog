@@ -79,9 +79,9 @@ I’ll finish here and leave you with an unsorted list of further reading and re
 
 | Stat                           | Value                                                  |
 | ------------------------------ | ------------------------------------------------------ |
-| Word count                     | 1319                                                   |
+| Word count                     | 1324                                                   |
 | Start   Date:                  | 29 May 2023                                            |
 | End Date:                      | 21 June 2023                                           |
 | Total   Editing time:          | 11 hours   according to Word                           |
 | Days with any   edits:         | 13                                                     |
-| Days with substantial   edits: | 6 (some days   I just added references or a sentence.) |
+| Days with substantial edits:   | 6 (some days   I just added references or a sentence.) | 
