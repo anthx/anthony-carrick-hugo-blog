@@ -73,7 +73,7 @@ I’ll finish here and leave you with an unsorted list of further reading and re
 * [Are attention spans really collapsing? Data shows UK public is worried, but also see technology benefits](https://phys.org/news/2022-02-attention-spans-collapsing-uk-technology.html)
 * [How to focus with a short attention span | CNN](https://edition.cnn.com/2023/01/11/health/short-attention-span-wellness/index.html) – How to focus on things when you need to.
 * [How Exposure to Silence Benefits the Brain -- Science of Us (thecut.com)](https://www.thecut.com/2016/07/scientists-are-discovering-the-neural-benefits-of-silence.html)
-* [What Is Listening to Podcasts All Day Doing to My Brain? (thecut.com)](https://www.thecut.com/2017/10/what-is-listening-to-podcasts-all-day-doing-to-my-brain.html) – Maybe listening to so many podcasts isn’t a great idea.
+* [What Is Listening to Podcasts All Day Doing to My Brain? (thecut.com)](https://www.thecut.com/2017/10/what-is-listening-to-podcasts-all-day-doing-to-my-brain.html) – Maybe listening to so many podcasts isn’t a great idea. 
 
 ## Meta
 
