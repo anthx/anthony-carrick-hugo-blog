@@ -26,12 +26,9 @@ My solution has been to try to manage my subscriptions to keep my feeds relevant
 
 If you find yourself losing several minutes to social media instead of getting up or being productive, I recommend the following:
 
-* Use a screen time management app. Screen time features are built into modern Android and iOS, and I couple it with App Block on Android to limit usage usage on an hourly basis rather than daily. 
-
+* Use a screen time management app. Screen time features are built into modern Android and iOS, and I couple it with [AppBlock](https://www.appblock.app/) on Android to limit usage usage on an hourly basis rather than daily. 
 * Be mindful of what you consume. If possible, try to update the recommendations to show less of the stuff you don’t want. Of course, this doesn’t always work!
-
 * Out of sight, out of mind. Remove the distracting apps from your phone, or browser shortcuts. I found I’m more likely to go to twitter if I see the shortcut in Firefox, so I turned off the shortcut, then I just didn’t think about it.
-
 * Find or make a reason to do something else that’s more engaging or enjoyable. This could be reading a novel on the bus, waking up early to go on a hike, meeting friends, or any other fulfilling activity that you truly enjoy more than scrolling social media.
 
 # Attention Spans
@@ -60,7 +57,7 @@ Attention and related time usage is something I’ve wrestled with over the year
 
 I’ve recently tried to subscribe to less podcasts as discussed earlier and have found it calming. I find it nice to just go for a walk and listen to the birds and look at the trees and pay attention to your neighbourhood. At least say, half the walks I go on.
 
-The AppBlock trick is good to remind me that I’ve spent several minutes on a site, consuming content and not really gaining anything. Having said that, just this morning while waking up, I set a timer for 2.5 minutes of laying in bed, and it went so fast (just staring at the seconds counting down) that the overtime song started playing and I listened to that for 1 minute in while the timer was negative! I suspect that the transition periods from sleep or wake affect our perception of time.
+The AppBlock trick is good to remind me that I’ve spent several minutes on a site, consuming content and likely not really gaining anything. Having said that, just this morning while waking up, I set a timer for 2.5 minutes of laying in bed, and it went so fast (just staring at the seconds counting down) that the overtime song started playing and I listened to that for 1 minute in while the timer was negative! I suspect that the transition periods from sleep or wake affect our perception of time.
 
 It’s good to keep in mind when an activity or piece of content is no longer providing value and in particular even detracting from your life. Here I mean, mostly distracting or low value media consumption, rather physical activities or consumption. Physical activity or consumption could certainly be detrimental to one’s particular needs but is out of scope of this blog post. What I’m really talking about is newsletters or subreddits or podcasts you don’t need anymore but are taking up your time and attention beyond your control.
 
@@ -77,12 +74,12 @@ I’ll finish here and leave you with an unsorted list of further reading and re
 
 ## Meta
 
-| Stat                           | Value                                                  |
-| ------------------------------ | ------------------------------------------------------ |
-| Word count                     | 1324                                                   |
-| Start   Date:                  | 29 May 2023                                            |
-| End Date:                      | 21 June 2023                                           |
-| Total   Editing time:          | 11 hours   according to Word                           |
-| Days with any   edits:         | 13                                                     |
-| Days with substantial edits:   | 6 (some days   I just added references or a sentence.) | 
-|﻿ Featured image:                | Taken by me in regional Victoria, Australia            | 
+| Stat                         | Value                                                  |
+| ---------------------------- | ------------------------------------------------------ |
+| Word count                   | 1324                                                   |
+| Start   Date:                | 29 May 2023                                            |
+| End Date:                    | 21 June 2023                                           |
+| Total   Editing time:        | 11 hours   according to Word                           |
+| Days with any   edits:       | 13                                                     |
+| Days with substantial edits: | 6 (some days   I just added references or a sentence.) |
+| ﻿ Featured image:            | Taken by me in regional Victoria, Australia            |
