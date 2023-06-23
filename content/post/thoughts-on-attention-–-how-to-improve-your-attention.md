@@ -85,3 +85,4 @@ I’ll finish here and leave you with an unsorted list of further reading and re
 | Total   Editing time:          | 11 hours   according to Word                           |
 | Days with any   edits:         | 13                                                     |
 | Days with substantial edits:   | 6 (some days   I just added references or a sentence.) | 
+|﻿ Featured image:                | Taken by me in regional Victoria, Australia            | 
