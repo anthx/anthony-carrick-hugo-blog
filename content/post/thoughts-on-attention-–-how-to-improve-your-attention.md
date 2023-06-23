@@ -8,7 +8,7 @@ title: Thoughts on Attention – How to improve your attention
 description: I’d like to talk about attention and achieving things for yourself.
   Your day, your life. My day, my life. Our attention has been stolen and
   potentially reduced by stimulus.
-image: /assets/images/Text-Blog-Featured-Image.png
+image: ../assets/images/pxl_20230403_030542617.jpg
 ---
 Much has already been written about our attention being [stolen](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media) from us by tech companies and advertising and they have [already done a great job](https://www.abc.net.au/radionational/programs/latenightlive/johann-hari-stolen-focus/101761868). And there is some conjecture that our attention spans are becoming smaller with the rise of social media – Instagram, TikTok etc.
 
