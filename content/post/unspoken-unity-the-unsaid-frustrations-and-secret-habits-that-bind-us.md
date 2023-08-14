@@ -2,10 +2,10 @@
 date: 2023-08-14T11:26:13.246Z
 lastmod: 2023-08-14T11:26:13.260Z
 tags:
-  - '["thoughts"'
+  - '"thoughts"'
   - '"honesty"'
   - '"feelings"'
-  - '"frustrations"]'
+  - '"frustrations"'
 title: "Unspoken Unity: The Unsaid Frustrations and Secret Habits That Bind Us"
 description: I like to talk openly to people and find out what feelings and
   traits we share - bond over a shared dislike of certain aspects of life. It
