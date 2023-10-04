@@ -13,6 +13,7 @@ menu:
 I’ve been involving myself in a few projects lately, for both work and personal life. During these projects, I’ve been thinking about what tools and technologies I use, and to use while I’m in the planning process. I’d like to share some of these.
 
 updated: 29th March 2018 – Git Bash for Mac
+updated: October 2023 - GitHub Codespaces
 
 Code Editing
 ============
@@ -20,6 +21,7 @@ Code Editing
 *   [Visual Studio Code](https://code.visualstudio.com) – for editing and creating static HTML and CSS, as seen on acarrick.com. I’m also using VS Code for some projects at work.
 *   [PyCharm](https://www.jetbrains.com/pycharm/) – my Python IDE of choice since Assignment 3. I use the Professional version, while I have a student license, but there is a free Community edition as well which has the core functionality.
 *   I also use [TextWrangler](https://www.barebones.com/products/textwrangler/) on the Mac if I want to save battery power and I’m just doing basic edits.
+* [GitHub Codespaces](https://github.com/features/codespaces) - Free for personal use Docker based development environment in the web browser. Now you can code on your iPad!
 
 Other Tools
 ===========

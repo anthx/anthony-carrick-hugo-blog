@@ -2,7 +2,7 @@
 url: /cooking-for-programmers
 tags: ["cooking"]
 date: 2022-05-11T22:25:30.240Z
-lastmod: 2022-05-11T22:25:30.256Z
+lastmod: 2023-10-04T11:25:30.256Z
 title: Cooking for the Unhappy/Lazy Internet Generation/Programmers
 description: As a sometimes unhappy or bored software developer I’ve often not enjoyed cooking proper meals for myself. But sometimes I try to because it’s healthier, cheaper, and impressive. 
 image: ../assets/images/cooking-for-programmers.png
@@ -11,7 +11,7 @@ As a sometimes unhappy or bored software developer I’ve often not enjoyed cook
 
 # Shortcuts
 
-**Buy pre-chopped vegetables.** I know it’s more expensive than buying them whole and chopping yourself, but it’s a lot easier. If you’re feeling energetic one day you can buy fresh vegetables and chop them while listening to a podcast. In Australia, most supermarkets sell stir-fry mixes for around $4. I just give the bag a rinse and put in the soft plastics recycling and it eventually gets turned into street furniture. 
+**Buy pre-chopped vegetables.** I know it’s more expensive than buying them whole and chopping yourself, but it’s a lot easier. If you’re feeling energetic one day you can buy fresh vegetables and chop them while listening to a podcast. In Australia, most supermarkets sell stir-fry mixes for around $4. ~~I just give the bag a rinse and put in the soft plastics recycling and it eventually gets turned into street furniture. ~~ (Edit 2023: Unfortunately the soft plastics recycling doesn't happen anymore, but still it's convenient and cheaper than going out.)
 
 **Buy pre-chopped meat for your stir-fry.** It’s also more expensive, but still OK. 
 
@@ -27,7 +27,7 @@ I’ve found a few videos from nerdy chefs on YouTube to be a bit of an inspirat
 
 ## Adam Regusea 
 
-Adam Regusea is a journalism lecturer turned cooking and food science YouTuber.  These two videos I've found quite helpful, on knife skills. Just don't go waving it around like he does in the first video.
+Adam Regusea is a journalism lecturer turned cooking and food science YouTuber.  These two videos I've found quite helpful, on knife skills. Just don't go waving it around like he does in the first video, because it's dangerous. (He's outside so it's less dangerous.) His videos are easy to watch and the recipes not usually difficult, often including some shortcuts and good explanations.
 
 {{<youtube-enhanced Oot0NGxQEm4 >}}
 
