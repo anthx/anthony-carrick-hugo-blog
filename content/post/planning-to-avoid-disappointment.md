@@ -2,9 +2,9 @@
 date: 2023-12-25T07:30:00.794Z
 lastmod: 2023-12-25T07:30:00.848Z
 tags:
-  - “experiences”
-  - “planning”
-  - “satisfaction”
+  - experiences
+  - planning
+  - satisfaction
 title: Planning to Avoid Disappointment
 description: Practical ways I’ve learnt from experience to avoid disappointment
   in your use of time.  Try to have a plan for your time even if you actually
