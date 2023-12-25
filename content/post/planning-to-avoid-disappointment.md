@@ -14,7 +14,7 @@ image: ../assets/images/_a5da7b9e-a87f-489d-a5b8-d9b6d9eb298a.jpeg
 ---
 Practical ways I’ve learnt from experience to avoid disappointment in your use of time. 
 
-Try to have a plan for your time even if you actually have no formal plan that you’ve booked or arranged (If you do, of course you should stick to that plan). Even if it’s just a rough idea of what you’d like to achieve that day or afternoon, it’s enough to help in your decision making if other things come up. If something really fun comes up, of course you can just put your idea to the side since it’s not booked. But having an idea that you can put into action helps you be less disappointed if other things don’t turn out fun.
+Try to have a plan for your time even if you actually have no formal plan that you’ve booked or arranged. (If you do, of course you should stick to that plan.) Even if it’s just a rough idea of what you’d like to achieve that day or afternoon, it’s enough to help in your decision making if other things come up. If something really fun comes up, of course you can just put your idea to the side since it’s not booked. But having an idea that you can put into action helps you be less disappointed if other things don’t turn out fun.
 
 ## Examples from my own experiences
 
