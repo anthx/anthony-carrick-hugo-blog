@@ -23,7 +23,7 @@ These days, there’s all this talk of mindfulness mediation, gratitude journals
 
 In the past, we didn’t have to do this stuff explicitly to cope as it is being touted by well-being literature. Certainly, there were groups people who would meditate (monks or similar), run or play sport (athletes or elites playing polo or cricket), or go out of their way to help others (nuns or knights errant). Though your average citizenry (ploughing the fields or blacksmithing or cooking for the tavern) had, in most cases, what they needed. Certainly, there was depression around then too, but it seems like underlying unease is new, and modern. What’s changed? 
 
-## Mental or “spiritual” well-being 
+# Mental or “spiritual” well-being 
 
 At its core, mindfulness without the meditation, is the just the absence of thoughts and being still with yourself. Even now, going for a walk without podcasts or music meets that need. In the past, that was all we had! Or you’d sit by the creek and listen. Now we bring Bluetooth speakers to the creek….  
 
@@ -33,7 +33,7 @@ Now, being a less religious society we explicitly have to write down the positiv
 
 Currently I’m doing Laurie Santos’ [Well-being MOOC](https://www.coursera.org/learn/the-science-of-well-being) which also taught us about the idea of Savouring. That is savouring positive experiences (like the common meaning with food) and remembering then, sitting with them. It’s most common applied to a tasty meal, but recent psychology research is extending it to other positive experiences like nature walks or socialising. I think in the past we probably naturally savoured our meals or time with family because good meals were hard to come by; feasts were reserved for special occasions; and family time was always special if you were at risk of being attacked by raiders or wild animals. 
 
-# Physical well-being 
+## Physical well-being 
 
 We need to exercise, that’s fairly common knowledge. Because we have cars and houses/apartments it’s much easier to do things without getting any physical activity. We can drive to places we go and live in the home. In the past, we’d need to walk to the town or village or hop on the horse. Walking is a great activity for overall health, even horse riding was good for you balance and core stability.  
 
@@ -41,7 +41,7 @@ Even at home, in the past we’d have to leave the home to go for the toilet, at
 
 In the past few decades (from 2020s) there’s been more of an emphasis on healthy eating. Partly it’s media and marketing, partly it’s push-back from the “health foods” against the “junk foods”. But also, by actual state health departments and dietitians. We just need to eat well now, because eating badly is so easy with all the processed food available, combined with the above ability to live without natural exercise. In the past, unless you were very rich, we didn’t have the opportunity to over-eat and highly processed food wasn’t even invented yet, so everything we ate was reasonably natural. (Adulterated foods in the early 20th century notwithstanding…) 
 
-# What do we do now? 
+## What do we do now? 
 
 Since now, more than ever, it’s important to maintain these practices to maintain our health and well-being, we should at least try to do these things, even if they are annoying at times. I think we just to just accept that we have to do extra work now to maintain our health. 
 
