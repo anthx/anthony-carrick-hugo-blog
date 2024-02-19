@@ -23,7 +23,7 @@ These days, there’s all this talk of mindfulness mediation, gratitude journals
 
 In the past, we didn’t have to do this stuff explicitly to cope as it is being touted by well-being literature. Certainly, there were groups people who would meditate (monks or similar), run or play sport (athletes or elites playing polo or cricket), or go out of their way to help others (nuns or knights errant). Though your average citizenry (ploughing the fields or blacksmithing or cooking for the tavern) had, in most cases, what they needed. Certainly, there was depression around then too, but it seems like underlying unease is new, and modern. What’s changed? 
 
-# Mental or “spiritual” well-being 
+## Mental or “spiritual” well-being 
 
 At its core, mindfulness without the meditation, is the just the absence of thoughts and being still with yourself. Even now, going for a walk without podcasts or music meets that need. In the past, that was all we had! Or you’d sit by the creek and listen. Now we bring Bluetooth speakers to the creek….  
 
