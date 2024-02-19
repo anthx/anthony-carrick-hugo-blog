@@ -41,7 +41,7 @@ Even at home, in the past we’d have to leave the home to go for the toilet, at
 
 In the past few decades (from 2020s) there’s been more of an emphasis on healthy eating. Partly it’s media and marketing, partly it’s push-back from the “health foods” against the “junk foods”. But also, by actual state health departments and dietitians. We just need to eat well now, because eating badly is so easy with all the processed food available, combined with the above ability to live without natural exercise. In the past, unless you were very rich, we didn’t have the opportunity to over-eat and highly processed food wasn’t even invented yet, so everything we ate was reasonably natural. (Adulterated foods in the early 20th century notwithstanding…) 
 
-## What do we do now? 
+# What do we do now? 
 
 Since now, more than ever, it’s important to maintain these practices to maintain our health and well-being, we should at least try to do these things, even if they are annoying at times. I think we just to just accept that we have to do extra work now to maintain our health. 
 
