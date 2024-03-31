@@ -1,6 +1,6 @@
 ---
 date: 2024-03-29T04:33:40.669Z
-lastmod: 2024-03-29T04:33:40.681Z
+lastmod: 2024-03-31T19:33:40.681Z
 tags:
   - health
   - well-being
@@ -29,7 +29,7 @@ In my case there have been a lot of times when I’ve wanted some particular foo
 
 In my personal life, I’ve gone to see some movies and shows, but found that when I get there, I can’t relax to enjoy it or it’s just not any good so it feels like a waste of time. Recently, many movies out these days just aren’t very good – Barbie was the only good movie I saw in 2023, everything else feels like a waste of time. 
 
-Theme parks or arcade rooms could be similar – you might want to go (partly because of the advertising), but then when you get there, it’s all crowds and expensive. 
+Theme parks or arcade rooms could be similar – you might want to go (partly because of the advertising), but then when you get there, it’s all crowds and expensive. Of course, if you enjoy it despite the crowds, or it's not expensive, then more power to you - have at it. 
 
 ### Relationships 
 
@@ -40,3 +40,7 @@ While this is saddening, and I’ve felt it too, it’s important to remember th
 ## Think about your Wants and Likes 
 
 In this blog post, I hope to get you, dear reader, thinking about what you like about what you want. Or if you even do like what you want. Or possibly better yet is to want what you like instead. This way you can slowly start to adjust your preferences to directly match what want to change. For example, though I might want a donut, I often find it too sweet, so over time, I’ve started to just not even want it at all. (Besides, it's $3 to $5 for only a minute worth of pleasure.)
+
+I don't mean to cause you to second guess your positive decisions or regret decisions that you tried with no knowledge of it anyway - its's good to try new things. Rather, it's good to be mindful of what you do and do not like so that you can use this knowledge to enact positive change in yourself, or not spend more time on activities that didn't work out for you. (Not as an excuse to do unhealthy things, though it's your perogative and your life if you want...) 
+
+I also think it's important to not force one's self to do something we don't like, just because we wish we did like it. 
