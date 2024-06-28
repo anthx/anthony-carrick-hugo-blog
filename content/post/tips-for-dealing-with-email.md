@@ -71,4 +71,4 @@ The web based script editor in Apps Script uses the Monaco editor and even has s
 
 # Thoughts
 
-I﻿n truth, I'm not even sure if my email is under control. I need to go back to Gmail and manually set up rules to Label emails so they'll get taken by the script, because new emails just keep coming! But at least now, maybe it won't get worse? 
+In truth, I'm not even sure if my email is under control. I need to go back to Gmail and manually set up rules to Label emails so they'll get taken by the script, because new emails just keep coming! But at least now, maybe it won't get worse? 
