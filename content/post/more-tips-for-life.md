@@ -30,7 +30,7 @@ Note well that these tips are in no particular order and don't necessarily relat
 
 ### Bonus
 
-1. Plan a gathering a your place so you have a "good reason" to tidy up.
+1. Plan a gathering at your place so you have a "good reason" to tidy up.
 2. Plan to have a drive with friends so that you also have a "good reason" to tidy up the car.
 
 
