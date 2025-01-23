@@ -1,11 +1,11 @@
 ---
-date: 2025-01-23T9:24:14.547Z
-lastmod: 2025-01-23T9:24:14.547Z
+date: 2025-01-22T09:24:14.547Z
+lastmod: 2025-01-23T09:24:14.547Z
 tags:
   - tips
   - lessons
   - life
-title: 14 Lessons I've Learnt Over Four Years
+title: Fourteen Lessons I've Learnt Over Four Years
 description: Lessons through growth
 image: ../assets/images/PXL_20241222_103948185-EDIT-1.jpg
 ---
