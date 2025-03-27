@@ -7,7 +7,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: tool
 ---
 
 I’ve been involving myself in a few projects lately, for both work and personal life. During these projects, I’ve been thinking about what tools and technologies I use, and to use while I’m in the planning process. I’d like to share some of these.
