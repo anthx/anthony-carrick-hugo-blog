@@ -113,3 +113,8 @@ Follow instructions:
 sudo apt-get autoclean
 sudo apt-get autoremove
 ```
+
+# Handy Links #
+[10 common security gotchas in Python and how to avoid them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03?mkt_tok=eyJpIjoiT1RrNU9XTm1abUl6WTJOaiIsInQiOiJRXC9CbnZRMzZCc0tVcmtxZDU1QU1hSGtzaVwvRGtDYWY4cTh2bE1kazJKNkNINmdQZDM5ZkZqempMUkhKK1pndHFheFFqTWpoQ2E0U2ZTaElsaFNjd1RoekNkZ2UzY21SVlwvVnB4aHc4d2IxN2FiZEkxZDkwMFlMV0pJbm5yeXNGRyJ9)
+
+[3 Ways to Download Files With Powershell](https://blog.jourdant.me/post/3-ways-to-download-files-with-powershell)

@@ -40,6 +40,20 @@ toc: true
 * Do research on the company, standard really
 * Ask questions that are important to you so that you know if you want to work there even.
 
+# Code/Project Management Stuff #
+Various Project Management or Coding organisation stuff I've found that I thought might be useful to record.
+
+[Zenhub](https://www.zenhub.com/) - Agile Github Issue Tracking
+
+[Google Sheets Templates](https://blog.hubspot.com/marketing/google-sheets-templates)  - A blog by Hubspot
+
+[Illustrator free alternatives](https://blog.hubspot.com/marketing/adobe-free-alternatives) - HubSpot's list of free Illustrator Alternatives
+
+[Decision trees](https://blog.hubspot.com/marketing/decision-tree?utm_campaign=Marketing%20Blog%20Weekly%20Email%20Sends&utm_source=hs_email&utm_medium=email&utm_content=63703673)  Another article by Hubspot, this time on making decisions.
+
+Sources:
+
+INFS3202 Student Demos, Hubspot Newsletter
 
 # Practice Coding and Computer Science #
 
