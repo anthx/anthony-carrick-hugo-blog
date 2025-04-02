@@ -13,7 +13,7 @@ toc: true
 # Q&A With Harold (a tech recruiter) #
 
 ## Resumes ##
-* what you did, how long etc.
+* List your job roles, duration, and key responsibilities.
 * put skills at the top
 * volunteering and meetups are good to put on there too.
 * put a link to portfolio on the resume
@@ -31,7 +31,7 @@ toc: true
 * Use full name if finance or similar, their first name is OK if a casual startup or such.
 
 ## Expectations ##
-* Heaps of stuff going on in software development that's not development...
+* There are many roles in software development beyond coding.
 
 ## Interviews ##
 * Don't be afraid of the interviewers
@@ -67,7 +67,7 @@ Try your hand at software engineering problems with Google, maybe work there? (h
 
 [more algorithm visualisers](https://visualgo.net/en)
 
-Plural Sight
+[Plural Sight - Video based tutorials by industry professions](https://pluralsight.com)
 
 [Immersive Math](http://immersivemath.com/ila/index.html) Interactive Math Textbook
 
@@ -75,7 +75,7 @@ Plural Sight
 
 [How to Not Waste Time at Another Pointless Conference](https://medium.com/the-mission/how-to-not-waste-your-time-at-another-pointless-conference-370db117a590)
 
-[97 Things 97-things-every-programmer-should-know/content/en/thing_69/)Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/)
+[97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/)
 
 [Collection of resources about CS](https://teachyourselfcs.com)
 
