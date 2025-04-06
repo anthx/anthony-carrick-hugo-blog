@@ -7,13 +7,14 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: tool
 ---
 
 I’ve been involving myself in a few projects lately, for both work and personal life. During these projects, I’ve been thinking about what tools and technologies I use, and to use while I’m in the planning process. I’d like to share some of these.
 
-updated: 29th March 2018 – Git Bash for Mac
-updated: October 2023 - GitHub Codespaces
+* updated: 29th March 2018 – Git Bash for Mac
+* updated: October 2023 - GitHub Codespaces
+* updated on 28th March 2025: Brought over some links from my old Wiki 
 
 Code Editing
 ============
@@ -45,12 +46,40 @@ Python
 *   csv – this is part of the Python standard library used to handle CSV data more reliably writing it yourself. I use this in my chat log parser.
 *   [PyMySQL](https://github.com/PyMySQL/PyMySQL) – a pure python implementation MySQL driver suitable reading and writing to a MySQL database using normal SQL. Remember to parameterise your queries to avoid SQL injection.
 
+This is a plain list of useful Python libraries I've found around the place.
+
+* Flask - Web server in Python
+* Numpy - For math stuff.
+* Pandas - Bulk Data Manipulation and statistical analysis
+* Plotly - Data Visualisation - import in offline mode though (used at Polymathian)
+* Slumber - REST API stuff
+* Pillow - Image Manipulation
+* Django - MVC framework. Like Rails, but harder.
+* Jupyter Notebooks - Python Code Visualiser
+* Pyramid Web Framework (used at Polymathian)
+* SQL Alchemy - SQL ORM (Object Relational Mapper) (used at Polymathian)
+* Gunicorn - A WSGI based webserver capable of production workloads, I think
+
 Web
 ---
 
 *   [Jquery](https://jquery.com/) – it’s Jquery… Makes DOM element selection easy on the client side. I use jquery on my main website.
 *   [W3 CSS](https://www.w3schools.com/w3css/) – a CSS framework by W3 Schools – it’s small and looks nice, I use it on the urban dictionary parser and some work projects. It’s responsive, and has several useful features, but still quite a small size.
 *   [Bootstrap](https://getbootstrap.com/) – one of the original CSS frameworks, I used Bootstrap on the recipe site for [WIS](https://www.acarrick.com/projects/web-information-systems/), and on some work projects. I like it as it’s complete and responsive
+
+Here are various Web Frameworks and JavaScipt libraries I've found around the place.
+
+* PHP Mailgun
+* Twillo SMS
+* [Parsley JS](http://parsleyjs.org) - Form validation library.
+* Glide - image loading
+* Chart.js
+* React/Redux
+
+Sources: 
+
+INFS302 Student Demos
+
 
 Data formats & Structures
 =========================

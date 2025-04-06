@@ -6,7 +6,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: clock
 toc: false
 ---
 
@@ -18,3 +18,4 @@ toc: false
 * ~~Rebuilding this blog in Hugo - because Gatsby got too hard to maintain.~~ (Finished in late 2021)
 * Blogging now successfully in Hugo
 * Working on a React app to help calculate travel costs.
+* Continuing the React app above to help decide about buying or renting.
