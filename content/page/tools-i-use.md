@@ -67,6 +67,20 @@ Web
 *   [W3 CSS](https://www.w3schools.com/w3css/) – a CSS framework by W3 Schools – it’s small and looks nice, I use it on the urban dictionary parser and some work projects. It’s responsive, and has several useful features, but still quite a small size.
 *   [Bootstrap](https://getbootstrap.com/) – one of the original CSS frameworks, I used Bootstrap on the recipe site for [WIS](https://www.acarrick.com/projects/web-information-systems/), and on some work projects. I like it as it’s complete and responsive
 
+Here are various Web Frameworks and JavaScipt libraries I've found around the place.
+
+* PHP Mailgun
+* Twillo SMS
+* [Parsley JS](http://parsleyjs.org) - Form validation library.
+* Glide - image loading
+* Chart.js
+* React/Redux
+
+Sources: 
+
+INFS302 Student Demos
+
+
 Data formats & Structures
 =========================
 
