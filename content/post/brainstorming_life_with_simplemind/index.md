@@ -1,8 +1,17 @@
 ---
+url: /brainstorming_life_with_simplemind
+date: 2025-04-12T02:45:00.833Z
+lastmod: 2025-04-12T02:45:00.833Z
+tags:
+  - journaling
+  - life
+  - thinking
 title: Brainstorming life for growth and satisfaction with SimpleMind
+description: Brainstorming about life and solutions using SimpleMind
+image: image1.png
 ---
 
-Following on from my post about journaling techniques, I've been trying
+Following on from my post about [journaling techniques](/post/my-favourite-journaling-techniques/), I've been trying
 a new thought and idea discovery method based on brainstorming and
 inspired by something a therapist taught me. I've been using the
 [brainstorming and mind mapping software
