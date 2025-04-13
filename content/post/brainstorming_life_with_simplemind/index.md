@@ -1,7 +1,7 @@
 ---
 url: /brainstorming_life_with_simplemind
-date: 2025-04-12T02:45:00.833Z
-lastmod: 2025-04-12T02:45:00.833Z
+date: 2025-04-13T10:05:00.833Z
+lastmod: 2025-04-13T010:05:00.833Z
 tags:
   - journaling
   - life
