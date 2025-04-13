@@ -8,7 +8,7 @@ tags:
   - thinking
 title: Brainstorming life for growth and satisfaction with SimpleMind
 description: Brainstorming about life and solutions using SimpleMind
-image: image1.png
+image: 20250413_095936000_iOS.png
 ---
 
 Following on from my post about [journaling techniques](/post/my-favourite-journaling-techniques/), I've been trying
