@@ -5,12 +5,12 @@ date: 2026-03-06T09:40:30.240Z
 lastmod: 2026-03-06T09:40:30.240Z
 title: Exploring Power Consumption With Power BI
 description: I’ve noticed that my monthly electricity usage has increased this year and I can’t explain why. Let's try to analyse it in Microsoft Power BI for fun!
-image: ../assets/images/exploring-power-consumption-with-power-bi.png
+image: exploring-power-consumption-with-power-bi.png
 ---
 I’ve noticed that my monthly electricity usage has increased this year and I can’t explain why. 
 | Before May | After May |
 | ------ | ----- |
-| ![](image2.png) | ![](image5.png) |
+| ![screenshot of Usage from retailer showing October to August](image2.png) | ![screenshot of Usage from retailer showing February to December](image5.png) |
 
 (October to April, it was mostly below 100 kWh and following May it was around 120 to 150 kWh.)
 
@@ -28,14 +28,14 @@ My retailer provides the usage data in half-hourly blocks with each row of data 
     Consumption,0.039,2026-02-13T23:00:00+11:00,2026-02-13T23:29:59+11:00
 ```
 To get the data as whole hours I needed to group each row into a new row combining the first and second half hours and adding kWh usage together. To do this I created a new column Start of Hour:  
-![](image13.png)
+![Screenshot of Power Bi Data Transformation screen - adding a Start of Hour column](image13.png)
 
 ```PowerQuery
 \= Table.AddColumn(\#"Changed Type", "Start of Hour", each Time.StartOfHour(\[\#"From (date/time)"\]), type datetimezone)
 ```
 Then I grouped the rows by Start of Hour and Summed the Usage (since each row is half an hour)
 
-![](image12.png)
+![Screenshot of Power Bi Data Transformation screen - grouping half hours blocks together](image12.png)
 
 So I had the hour by itself I added a column for it to:
 
@@ -51,7 +51,7 @@ I needed the Hour available in the data structure so that I could filter by Hour
 
 Now I can create some cool graphs and sanity check the grouping by just comparing it to the graph from my retailer. 
 
-![](image11.png)
+![Initial graph of monthly usage in kWh](image11.png)
 Compared with the screenshots from the retailer’s app, we can see the shape is the same, and the values are the same, though it’s rounded to 0 decimal places (that is easily fixed in the visual’s Y-value format settings).
 
 # What Can We Discover?
@@ -61,11 +61,11 @@ To make the numbers a bit easier to work with, I added a WattHours column, which
 ## 3am Usage
 
 The 3am usage doesn’t seem to have jumped up suddenly in a month, implying that no one particular device is suddenly not turning off. It could be that I’ve slowly added several devices that are each drawing small amounts of power even at night.  
-![](image6.png)
+![3am average usage](image6.png)
 Using Average here instead of Sum to show the average 3am usage for that month, rather than the total 3am usage adding each day.
 
 Zooming in to a day per column, from February to May we can see no particular pattern, though it’s slightly trending up. Some of the peaks would have been times I left my desktop PC on overnight.  
-![](image3.png)
+![3am February to May day by day usage graph](image3.png)
 
 While interesting, 3am usage doesn’t tell us much yet.
 
@@ -79,23 +79,23 @@ Here we can see that there is a large increase in Average WattHours used in the 
 * The fans inside the gas central heating are used more.  
 * It’s dark still at that time so I had more lights on.
 
-![](image7.png)
+![6am usage graph](image7.png)
 
 The 7am hour has an increase but it’s not as dramatic:  
-![](image1.png)
+![7am usage graph](image1.png)
 
 8am, 9am and 10am show increases following the month of May but no particular pattern:  
-![](image9.png)
-![](image4.png)
+![8am usage graph](image9.png)
+![9am usage graph](image4.png)
 
-![](image8.png)
+![10am usage graph](image8.png)
 
 ## Evening Time
 
 The 18 and 19 hours show a marked increase in usage during Winter, but by 8pm there is no clear pattern. This would imply that the heater is using power and that by 8pm the home is already warmed so it’s not running as much. But this is unexpected to me because it’s a gas central heater and the fans in the ceiling shouldn’t be using much electricity. But if the fans inside the heating system are using 40 watts each and there’s say 3 of them \- that would probably add up to the increase we are seeing. This is worth investigating further in a future post.
 
 The 23 hour (11pm) usage is really interesting though - it shows a large increase in Watts used starting in October:  
-![](image10.png)
+![23 hour (11pm) usage graph showing an increase in October's usage](image10.png)
 I can only think of a few things:
 
 * I set up my old Set Top Box with shows recorded off the TV to watch  
@@ -109,7 +109,7 @@ The Midnight (0 hour), 1am, 2am, 3am, average and monthly sum usages, show incre
 ## Rolling Average
 
 By adding a Moving Average we can see that the 3am usage since May is higher, there are still individual days where it’s lower. Go to “New Visual Calculation” on the Ribbon to add one. I made it 2 intervals either side.  
-![](image14.png)
+![3am Usage Graph with a Moving Average line](image14.png)
 
 # Closing
 
