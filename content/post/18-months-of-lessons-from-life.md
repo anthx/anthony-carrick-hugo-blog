@@ -1,13 +1,15 @@
 ---
-date: 2026-08-12T10:09:13.128Z
-lastmod: 2026-08-12T10:09:13.141Z
+date: 2026-08-13T10:09:13.128Z
+lastmod: 2026-08-13T10:09:13.141Z
 tags:
   - lessons
+  - life
+  - improvement
 title: 18 Months of Lessons From Life
 description: Since my last Lessons post, I've learnt about myself and life,
   through events, anxieties, and positive situations too. Following are some of
   the more memorable lessons I've learnt!
-image: /assets/images/Text-Blog-Featured-Image.png
+image: ../assets/images/pxl_20260705_002649459-edit.jpg
 ---
 Since my last Lessons post, I've learnt about myself and life, through events, anxieties, and positive situations too. Since I like to look back on things and discover the lessons from events I can see the "silver lining in the clouds" and often come away from the experience at least more prepared for the future. And with positive discoveries like my observation of day trips being nice, I can try to arrange more of that to improve my life.
 
@@ -20,7 +22,7 @@ So, following is an unsorted list of the things I've life lessons I've discovere
 * Journal about your worries and the facts to help prevent your brain going rampant
 * Walks really do help your mind. Some of my best weekend mornings have been just walking along the lake with a coffee or bubble tea and relaxing.
 * Little day trips somewhere new are nice.
-* When doing maintenance (system, codebase) or tidy up around the house, take photos or records of before and after. 
+* When doing maintenance (system, codebase) or a tidy up around the house, take photos or records of before and after. You have evidence and a comparison for reference.
 * Eat something before taking long train journeys around dinner time.
 * Physical crafts or physical puzzles are relaxing and makes you feel human.
 
@@ -31,3 +33,5 @@ Back in the height of winter last year, I was getting fatigued and rather depres
 On a recent vacation, I tried to organise catch-ups with at least 3 sets of people after already exhausting myself with an early rise and physical activity. I ended up cancelling most of the rest of the plans due to overwhelm and logistics. So I may have offended or upset those who I cancelled on. 
 
 A few times I've gone on little day trips or afternoon trips and found the drive a nice mindful experience and the activities fun or relaxing. I can even look back on day trips I took while depressed from lack of vitamin D as good times now. And some times we found cool things to purchase or that people were giving away that we'd not have otherwise.
+
+Once last year my town was having an art festival with a free workshop on making "Zines" - sheets of paper folded into a little booklet that you can write in and decorate and give away. It was really fun to sit with others and puts stickers and draw into a little booklet. And recently I bought an acrylic jigsaw puzzle that was a delight to put together on the weekend. In both cases doing something physical with my hands to make some craft or some art felt quite wholesome and fulfilling. 
